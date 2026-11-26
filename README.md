@@ -1,4 +1,4 @@
-# penguins-data-analysis
+# Ejercicio: penguins-data-analysis
 Exploratory Data Analysis of Palmer Penguins using Python
 
 # Palmer Penguins — Exploratory Data Analysis
